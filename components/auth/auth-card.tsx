@@ -49,8 +49,8 @@ export function AuthCard({
   }
 
   return (
-    <div className="w-full max-w-[90%] sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl mx-auto px-4 sm:px-0 max-h-[90vh] overflow-y-auto [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]">
-      <div className="bg-black/40 backdrop-blur-xl border border-white/10 rounded-[32px] p-8 sm:p-10 lg:p-12 shadow-2xl transform transition-all duration-300 hover:scale-[1.02] hover:shadow-3xl w-full">
+    <div className="w-full max-w-md mx-auto">
+      <div className="bg-black/40 backdrop-blur-xl border border-white/10 rounded-[32px] p-8 lg:p-10 shadow-2xl transform transition-all duration-300 hover:scale-[1.02] hover:shadow-3xl w-full">
         <div className="flex justify-center mb-8 sm:mb-10 lg:mb-12">
           <div className="spinning-logo">
             <img

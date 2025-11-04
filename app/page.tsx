@@ -108,8 +108,8 @@ export default function AuthPage() {
                       </svg>
                     </div>
                     <div>
-                      <h3 className="text-xl font-semibold mb-2">Lightning Fast</h3>
-                      <p className="text-white/70">Experience unparalleled transaction speeds on the Sui network with sub-second finality.</p>
+                      <h3 className="text-xl font-semibold mb-2">Sui World News</h3>
+                      <p className="text-white/70">Access **real-time updates** and in-depth articles covering major developments across the Sui network and its partners</p>
                     </div>
                   </div>
 
@@ -120,8 +120,8 @@ export default function AuthPage() {
                       </svg>
                     </div>
                     <div>
-                      <h3 className="text-xl font-semibold mb-2">Secure & Reliable</h3>
-                      <p className="text-white/70">Built with cutting-edge security features to keep your assets safe and secure.</p>
+                      <h3 className="text-xl font-semibold mb-2">Live Metrics & Token Stats</h3>
+                      <p className="text-white/70">Track the **live value (TVL), token prices, usage analytics**, and dynamic gas fee updates for optimal network engagement.</p>
                     </div>
                   </div>
 
@@ -132,12 +132,11 @@ export default function AuthPage() {
                       </svg>
                     </div>
                     <div>
-                      <h3 className="text-xl font-semibold mb-2">Global Access</h3>
-                      <p className="text-white/70">Join a worldwide community of users leveraging the power of decentralized technology.</p>
+                      <h3 className="text-xl font-semibold mb-2">Community Pulse & Social Feed</h3>
+                      <p className="text-white/70">Stay connected with **official community articles, developer updates, and essential tweets** aggregated from top voices in the Sui ecosystem</p>
                     </div>
                   </div>
                 </div>
-
                 <div className="pt-4">
                   <p className="text-sm text-white/50">
                     New to Sui? Create a Slush wallet to get started in minutes.
